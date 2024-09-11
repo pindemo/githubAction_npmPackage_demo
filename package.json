@@ -1,6 +1,6 @@
 {
   "name": "pin_package_demo",
-  "version": "1.0.0",
+  "version": "4.0.0",
   "author": "pin",
   "description": "使用 github Actions 自动化 创建release并发布 npm 包",
   "main": "./lib.js",
