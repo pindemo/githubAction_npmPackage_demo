@@ -1,14 +1,15 @@
 {
-  "name": "@pin/package_demo",
-  "version": "2.3.0",
-  "description": "",
+  "name": "pin_package_demo",
+  "version": "1.0.0",
+  "author": "pin",
+  "description": "使用 github Actions 自动化 创建release并发布 npm 包",
   "main": "./lib.js",
+  "private": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.6.2"
