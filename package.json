@@ -2,7 +2,7 @@
   "name": "@pin/package_demo",
   "version": "2.2.0",
   "description": "",
-  "main": "/lib.js",
+  "main": "./lib.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
