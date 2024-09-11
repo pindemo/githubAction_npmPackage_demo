@@ -1,6 +1,6 @@
 {
   "name": "@pin/package_demo",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "",
   "main": "./lib.js",
   "scripts": {
